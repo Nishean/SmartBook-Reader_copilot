@@ -1,0 +1,28 @@
+{
+  "name": "smartbook-reader",
+  "version": "1.0.0",
+  "description": "A cross-platform application that converts textbooks to audio format and provides streaming reading capabilities.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node shared/index.js",
+    "build": "tsc",
+    "test": "jest"
+  },
+  "keywords": [
+    "audio",
+    "streaming",
+    "textbook",
+    "reader"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "typescript": "^4.5.4",
+    "jest": "^27.0.6"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.0.2",
+    "@types/node": "^16.11.7"
+  }
+}
