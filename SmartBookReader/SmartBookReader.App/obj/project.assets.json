@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\SmartBook-Reader\\smartbook-reader\\SmartBookReader\\SmartBookReader.App\\SmartBookReader.App.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\SmartBook-Reader\\SmartBookReader\\SmartBookReader.App\\SmartBookReader.App.csproj",
       "projectName": "SmartBookReader.App",
-      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\SmartBook-Reader\\smartbook-reader\\SmartBookReader\\SmartBookReader.App\\SmartBookReader.App.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\SmartBook-Reader\\SmartBookReader\\SmartBookReader.App\\SmartBookReader.App.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\SmartBook-Reader\\smartbook-reader\\SmartBookReader\\SmartBookReader.App\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\SmartBook-Reader\\SmartBookReader\\SmartBookReader.App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
